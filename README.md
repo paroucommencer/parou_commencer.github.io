@@ -1,3 +1,3 @@
-# Bienvenue sur mon site test de "Par où commencer"
+# Voici le read de mon projet de site web "par où commencer"
 
 Pour voir ce que ça donne, cliquez ici : [Par où commencer ?](https://paroucommencer.github.io)
