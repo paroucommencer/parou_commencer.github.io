@@ -2,5 +2,5 @@
 
 
 Une première chose que vous pouvez faire, c'est aller ici :
-[lePremierArticle](https://paroucommencer.github.io/article1)
+[le premier article](https://paroucommencer.github.io/article1)
 
