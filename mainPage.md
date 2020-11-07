@@ -1,4 +1,4 @@
 ## Bienvenu sur mon site !
 
-Ceci est un test
+Ici, vous allez enfin savoir par où commencer !
 
